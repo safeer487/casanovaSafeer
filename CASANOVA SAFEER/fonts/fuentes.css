@@ -1,0 +1,52 @@
+@font-face{
+			font-family: HelveticaNeue-UltraLigExt;
+			src:url(HelveticaNeue-UltraLigExt.otf);
+			font-weight: bold;
+		}
+	
+
+
+@font-face{
+			font-family: HelveticaLTStd-Light;
+			src:url(HelveticaLTStd-Light.otf);
+		}
+
+
+
+@font-face{
+			font-family: HelveticaNeue-Thin;
+			src:url(HelveticaNeue-Thin.otf);
+		}
+
+
+
+
+@font-face{
+			font-family: HelveticaNeue-ThinExt;
+			src:url(HelveticaNeue-ThinExt.otf);
+		}
+	
+
+
+@font-face{
+
+			font-family: HelveticaNeue-UltraLigExt;
+			src:url(HelveticaNeue-UltraLigExt.otf);
+			font-weight: bold;
+			letter-spacing: 10px;
+		}
+
+	
+@font-face{
+			font-family: ._HelveticaNeueLTStd-MdEx;
+			src:url(._HelveticaNeueLTStd-MdEx.otf);
+		}
+
+
+	
+@font-face{
+			font-family: CaviarDreams;
+			src:url(CaviarDreams_Bold.ttf);
+		}
+
+

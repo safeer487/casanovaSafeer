@@ -1,0 +1,13 @@
+@font-face{
+			font-family: HelveticaNeue-UltraLight;
+			src:url(../fonts/HelveticaNeue-UltraLight.otf);
+		}
+/*
+HelveticaLTStd-Light
+*/
+@font-face {
+font-family: 'Helvetica LT Std Light';
+font-style: normal;
+font-weight: normal;
+src: local('fontd/Helvetica LT Std Light'), url('HelveticaLTStd-Light.woff') format('woff');
+}		

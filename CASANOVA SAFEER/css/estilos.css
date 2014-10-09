@@ -1,0 +1,2762 @@
+*{
+  margin:0px;
+  padding:0px;
+  border:0px;
+ }
+
+
+/*--------------POLITICA COOKIE ---*/
+
+
+#barraaceptacion {
+    display:none;
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    padding-bottom:20px;
+    width:100%;
+    text-align:center;
+    min-height:40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color:#fff;
+    z-index:99999;
+}
+ 
+.inner {
+    width:100%;
+    position:absolute;
+    padding-left:5px;
+    font-family:verdana;
+    font-size:12px;
+    top:30%;
+}
+ 
+.inner a.ok {
+    padding:4px;
+    color:#00ff2e;
+    text-decoration:none;
+}
+ 
+.inner a.info {
+    padding-left:5px;
+    text-decoration:none;
+    color:#faff00;
+}
+
+/*----------------------------*/
+
+
+/*
+body{
+	background: #ececec url('/images/bg3.png') repeat center top;
+}
+*/
+
+.general{
+		 width:960px;
+		 height:720px;	
+		 margin:0px auto 0px auto;
+	     position:relative;
+		 
+       }
+
+
+.cabecera{					
+			width:100%;
+			height:325px;
+ 			background-color: #ccff33;
+	
+	 	}
+
+/*----------------------------------------------------modificaciones----*/
+
+#h3_cabecera_casanova{
+					width: 360px;
+					height: 80px;
+					font-family: algerian,arial;
+					color:#33cc66;
+					position: relative;
+					top: 50px;
+					left: 50px;
+					font-size: 50px;
+				
+				float: left;
+					}
+#logo_cabecera{
+			width: 50px;
+			height: 50px;
+			position:relative;
+			top:0px;
+			float: left;
+			}
+
+#icasanova{
+			width: 300px;
+			height: 50px;
+		
+			line-height: 50px;
+			font-size: 40px;
+			position: relative;
+			left: 10px;
+			}
+
+
+#abajo_cabecera_casanova{
+						width: 250px;
+						height: 30px;
+						font-family: arial;
+						color:#33cc66;
+					position: relative;
+					top: -10px;
+					left: 20%;
+					font-size: 19px;
+					
+						}	
+
+
+
+
+/*-------------------------------------------------------------*/
+
+.footer{
+		width: 100%;
+		height: 110px;
+		background-color: #cccccc;
+		margin-bottom: 0px;
+		margin-top: auto;
+		position: relative;
+		z-index: 5;
+		color:#A4A4A4;
+		text-decoration: none;
+		}
+
+.Footer_intranet{
+			width: 960px;
+			height: 110px;
+			
+			color:white;
+			margin: 0px auto 0px auto;
+			text-decoration: none;
+
+			}
+#boton_intranet{
+				width: 100px;
+				height: 110px;
+			border:1px solid silver;
+			margin:0px 0px 0px auto;
+			text-decoration: none;
+			color:#424242;
+			float: left;
+				}
+
+#boton_intranet:hover{
+				color: #0099cc;
+				}
+
+.texto_footer{
+			width: 820px;
+				height: 40px;
+			
+			margin:0px auto 0px 0px;
+			text-decoration: none;
+			color:#424242;
+			float: left;
+			position: relative;
+			top:60px;
+
+			text-align: center;
+			}
+
+a{
+  text-decoration:none;
+   }
+
+a:visited{
+			text-decoration: none;
+
+			}
+
+label{  
+       margin-top:0px;
+
+     }    
+
+
+/*-----  barra de botones  --- ----*/
+.barrabotones{
+			width:100%;
+			height: 50px;
+			margin:0px auto 0px auto;				
+			position: relative;
+			background-color: #ccff33;
+			}
+
+.boxbotones{
+			width:960px;
+			height:50px;
+			margin:0px auto 0px auto;
+				
+			}
+
+.envuelvebotones{
+				width: 800px;
+				height: 100px;
+		
+				margin: 0px auto 0px auto;
+				}
+#boton{
+		width: 100px;
+		height:50px;
+		border-radius: 50px;
+		list-style-type: none;
+		float: left;
+		color:#669900;
+		/*color:#009933;*/
+		text-align: center;	
+		display: block;
+		margin: 0px auto 0px auto;	
+		margin-right: 20px;
+		margin-left: 5px;
+	line-height: 50px;
+	
+		}
+#boton:hover{
+		/*	border: 1px solid white; */
+			opacity: 0.9;
+	
+			font-size: 105%;		
+			}
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------*/
+/*--------------------------------------------paginas Servicios ----------*/
+
+.General_Servicio{	
+				width:960px;
+				height:auto;
+				margin:0px auto 0px auto;
+		
+				}
+
+#titulo_utlimos_pisos_h3_servicios{
+									width:100%;
+									height: 150px;
+									text-align: center;
+									margin: 20px auto 0px auto;
+									color: #848484;
+									font-family:HelveticaLTStd-Light,arial;
+									line-height: 60px;	
+
+									padding-top: 50px;
+									background: #F2F2F2 url('../img/bg3.png') repeat center top;
+
+									}
+
+
+
+
+
+#titulo_Servicios{
+				color: white;
+				height: 60px;
+				
+				line-height: 60px;
+				margin-left: 10px;
+				position: relative;
+				top:-10px;
+				font-family: HelveticaNeue-UltraLigExt,arial;
+				}
+
+#fondo_flecha{
+			width: 960px;
+			height: 65px;
+			
+			margin: 30px auto 10px auto;
+		
+			
+			
+			}
+
+#flecha_galeria{
+		width: 60px;
+		height: 60px;
+		margin-right: 10px;
+		margin-left: 5px;
+	position: relative;
+	top: 5px;	
+		float: left;
+		line-height: 65px;
+		}
+
+
+
+#div_img_text{
+				width: 960px;
+				height: 400px;
+				margin: 0px auto 0px auto;
+				position: relative;
+				top: 0px;
+			}
+
+
+#textoservicios{
+				width:950px;
+				height:100px;
+				padding:0px 5px 0px 5px;
+				margin-bottom:50px;
+											/*texto de la pagina servicios*/
+				font-size: 14px;
+				color: white;
+				line-height: 20px;
+				position: relative;
+				top: -135px;
+	
+   	        	}
+
+#fondo_texto{
+			
+			width:960px;
+			height:150px;
+			background-color: #33ccff;
+			border-bottom: 10px solid white;
+			position: relative;
+			top: 0px;
+			opacity: 0.9;
+			}
+
+#textoservicios2{
+				width:610px;
+				height:400px;
+				margin-left: 320px;
+				font-size: 14px;
+				color: white;
+				position: relative;
+				top: -400px;
+			
+	   	        }
+
+#fondo_texto2{
+			
+			width:630px;
+			height:400px;
+			background-color: #ff0066;
+			border-left: 10px solid white;
+			border-right: 10px solid white;
+
+			position: relative;
+			top: 0px;
+			margin-left:280px;
+			opacity: 0.8;
+			}
+
+#textoservicios3{
+				width:950px;
+				height:100px;
+				padding:0px 5px 0px 5px;
+				margin-bottom:50px;
+											
+				font-size: 14px;
+				color: #333333;
+				line-height: 20px;
+				position: relative;
+				top: 115px;
+			
+   	        	}
+#fondo_texto3{
+			opacity: 0.9;
+			width:960px;
+			height:150px;
+			background-color:  #ccff33;
+			border-top: 10px solid white;
+			position: relative;
+			top: 240px;
+
+			}
+
+#textoservicios4{
+				width:360px;
+				height:400px;
+				margin-left: 195px;
+				font-size: 14px;
+				color: white;
+				position: relative;
+				top: -350px;
+		
+   	        	}
+#fondo_texto4{
+		opacity: 0.8;
+			width:360px;
+			height:400px;
+			background-color: #ffcc00;
+			border-left: 10px solid white;
+			border-right: 10px solid white;
+
+			top: 0px;
+			margin-left:170px;
+			}
+
+#textoservicios5{
+				width:950px;
+				height:100px;
+				padding:0px 5px 0px 5px;
+				margin-bottom:50px;
+											/*texto de la pagina servicios*/
+				font-size: 14px;
+				color: white;
+				line-height: 20px;
+				position: relative;
+				top: -30px;
+		
+	
+   	        	}
+
+#fondo_texto5{
+			opacity: 0.9;
+			width:960px;
+			height:170px;
+			background-color: #33ccff;
+			border-bottom: 10px solid white;
+			border-top: 10px solid white;
+			position: relative;
+			top: 110px;
+
+			}
+
+
+/*-----------------------------------------------------------------------------*/
+/*--------------------------------------------paginas QUIENES SOMOS ----------*/
+
+
+.contenedor_quienes_somos{
+						width: 960px;
+						height: auto;
+						
+						margin: 0px auto 0px auto;
+						}
+
+#titulo_Quienes_somos{
+					color: white;
+					line-height: 40px;
+					margin-left: 10px;
+					font-family: HelveticaNeue-UltraLigExt,arial;
+					}
+
+#fondo_flecha{
+			width:auto;
+			height:60px;
+			background-color: #A4A4A4;
+			border-top:10px solid #E6E6E6;	
+			border-bottom:10px solid #E6E6E6;	
+
+			}
+
+#flecha_galeria{
+				width: 60px;
+				height: 60px;
+				margin-right: 10px;
+				margin-left: 5px;
+				
+				float: left;
+				line-height: 50px;
+				}
+
+#flecha_separa_galeria{
+	width: 70px;
+	height: 70px;
+	
+
+					margin: 0px auto 0px auto;
+					}
+
+#div_img_text_quienes{
+					width: 100%;
+					height: 580px;
+					margin: 0px auto 0px auto;
+					position: relative;
+					top: -15px;
+					background-position: center;
+					background-repeat: no-repeat;
+					}
+
+
+
+#textos_quienes{
+				width:560px;
+				height:560px;
+				border-radius: 280px;
+				margin-left: 200px;
+				font-size: 14px;
+				color: white;
+				position: relative;
+				left: -200px;
+				text-align: justify;
+			border: 5px solid  #ccff33;  
+			letter-spacing: 2px;
+     }
+
+#fondo_texto_quienes{
+					
+					width:560px;
+					height:560px;
+					border-radius: 280px;
+					background-color: #6E6E6E;
+				border: 10px solid white;	
+					position: relative;
+					top: 0px;
+					margin-left:200px;
+
+					}
+
+/*---------------------------------------pagina VENTA ALQUILER---------------------------------------*/
+/*-------------------------------------------------------------------------------------------------*/
+
+.Container_index{		
+					width:960px;
+					height:auto;
+					margin: 0px auto 0px auto;	
+					
+			
+					}
+
+.Container_venta{		
+					width:960px;
+					height:auto;
+					margin: 0px auto 0px auto;	
+					background: #F2F2F2 url('../img/bg3.png') repeat center top;
+			
+					}
+
+
+
+.Container_alquiler{		
+					width:960px;
+					height:auto;
+					margin: 0px auto 0px auto;	
+					background: #F2F2F2 url('../img/bg3.png') repeat center top;
+			
+					}
+
+
+
+
+.box_Galeria{ 
+			width:100%;
+			height:560px;
+			margin: 20px auto 0px auto;	
+		background: #F2F2F2 url('../img/bg3.png') repeat center top;
+		
+		
+						}
+
+.marcador{
+			width: 80px;
+			height: 13px;
+		
+			position: relative;
+			left: 39%;
+			top:-22px;
+			z-index: 10;
+			background-image: url('../img/marcador.png');
+			background-repeat: no-repeat;
+			background-position: center;
+
+			}
+
+
+.marcador_alq{
+			width: 80px;
+			height: 13px;
+			position: relative;
+			left: 52%;
+			top:-22px;
+			z-index: 10;
+			background-image: url('../img/marcador.png');
+			background-repeat: no-repeat;
+			background-position: center;
+			}
+
+.encuentre{
+			width: 30px;
+			height: 30px;
+			position: relative;
+			left: 56%;
+			top:-35px;
+		
+			background-image: url('../img/marcador_2.png');
+			background-repeat: no-repeat;
+			background-position: center;
+			}
+
+.encuentre_alq{
+			width: 30px;
+			height: 30px;
+			position: relative;
+			left: 320px;
+			top:-35px;
+			background-image: url('../img/marcador_2.png');
+			background-repeat: no-repeat;
+			background-position: center;
+			}
+
+/*-------------------------titulos de filtros de venta---*/
+#titulos_de_filtros{
+					width: 930px;
+					height: 80px;
+					margin: 0px auto 0px auto;
+					position: relative;
+					top: 7px;
+					font-size: 17px;
+					color: white;
+				
+					}
+
+.titulo_tipo{
+			width: 300px;
+			height: 50px;
+			margin: 25px 10px 0px 5px;
+			background-color: #666666;
+			float: left;
+			text-align: center;
+			line-height: 50px;
+			}
+
+.titulo_localidad{
+				width: 300px;
+				height: 50px;
+				margin: 25px 10px 0px auto;
+				background-color: #666666;
+				float: left;
+				text-align: center;
+				line-height: 50px;
+				
+				}
+
+.titulo_precio{
+				width: 300px;
+				height: 50px;
+				margin: 25px auto 0px auto;
+				background-color: #666666;
+				float: left;
+				text-align: center;
+				line-height: 50px;
+				
+				}
+/*------------------------*/
+
+
+.div_envuelde_select_venta{
+							width:960px;
+							height: 400px;
+							margin:0px auto 0px auto;
+				 			}
+
+
+#h4_resultado_busqueda_venta{
+						width: 100%;
+						height: 65px;
+						color:white;
+						background-color: #ccff33;
+						line-height: 65px;
+						font-family: 25px;
+						text-align: center;
+						position: relative;
+						top: 145px;
+						font-weight: bold;
+						font-family: CaviarDreams,arial;
+						padding-top: 15px;
+						}
+
+
+
+.button_buscar {
+				width: 300px;
+				height: 40px;
+				background-color: silver;
+				margin: 0px auto 0px auto;
+				box-shadow: 1px 1px 1px silver;
+				position: relative;
+				left: 34%;
+				top: 20px;
+				}
+
+.button_buscar:hover {
+					background-color: #666666;
+					color: white;				
+					}
+
+
+
+
+.tabla_select_filtros{
+					text-align: center;
+					width: auto;
+					margin:0px auto 0px auto;
+					text-align: right;
+	
+					}
+
+
+.cartelresultados{
+					width: 960px;
+				height: 90px;
+				margin: 0px auto 0px auto;
+			/*	background-color: cyan;*/
+				position: relative;
+				top:-150px;
+				font-size: 30px;
+				font-family: CaviarDreams,arial;
+				text-align: left;
+					}
+
+
+
+
+.divEnvuelvepisos{
+				width: 960px;
+				height: auto;
+				margin: -100px auto 0px auto;
+				position: relative;
+					top:-100px;
+				
+				}
+
+.tabla_resultados_Galeria{
+						width: 930px;
+						height: auto;
+						margin: 0px auto 0px auto;
+					 
+						}
+
+/*-----Ddiv error venta -*/
+
+#Error_venta{
+			width: 960px;
+			height: 50px;
+			text-align: center;
+			line-height: 50px;
+
+			color:white;
+
+			background-color: #F5A9A9;
+
+			}
+
+
+
+.div_Result_Galeria{
+					width: 270px;
+					height: auto;
+					color: #2E2E2E;
+					float: left;
+					margin: 5px 20px 25px 20px;
+					}
+
+/*----------alquiler---*/
+.div_Result_Galeria_alq{
+					width: 270px;
+					height: auto;
+					color: #2E2E2E;
+					float: left;
+					margin: 5px 20px 25px 20px;
+				
+					}
+
+
+
+#img_piso_Galeria{
+				width:269px;
+				height:280px;
+				border-top-left-radius: 10px;
+				border-top-right-radius: 10px;
+				background-repeat: no-repeat;
+				background-size: cover;
+				box-shadow: 1px 0px 1px #BDBDBD;
+			 		 }		  
+
+.bajo_Foto_Galeria{
+				height: 250px;
+				border-bottom-left-radius: 10px;
+				border-bottom-right-radius:10px;
+				background-color: #F2F2F2;
+				box-shadow: 0px 1px 1px #BDBDBD;
+				font-family: arial;
+				}
+
+
+
+/*------ALQIILER--*/
+.bajo_Foto_Galeria_alq{
+				height: 260px;
+				border-bottom-left-radius: 10px;
+				border-bottom-right-radius:10px;
+				background-color: #F2F2F2;
+				box-shadow: 0px 1px 1px #BDBDBD;
+				font-family: arial;
+				}
+
+
+.div_titulo_galeria{
+					width: 270px;  
+					height: 30px;
+					border-bottom: 5px solid white;
+					color:#2E2E2E;
+					}
+
+#titulo_Piso_galeria{
+					width: 180px;
+					height: 30px;
+					float: left;
+					line-height: 30px;
+					padding-left: 5px;
+				
+					}
+
+
+#metros_galeria{
+				width: 55px;
+				height: 30px;
+				
+				float: left;
+				margin-right: 0px;
+				line-height: 30px;	
+				text-align: right;
+			
+				}	
+
+
+#Descripcion_galeria_Piso{
+	font-family: arial;
+							width: 250px;  
+							height: 80px;
+							color: #2E2E2E;
+							font-size: 13px;
+							resize:none;
+							padding: 5px;
+							margin-bottom: 0px;
+				
+							}
+
+/*----DONDE ES EL BOTON PARA VER LA GALERIA  -*/
+.galeria_peque{
+			margin-top: -5px;
+			width: 100%;
+			height: 82px;
+	color: #2E2E2E;
+			 }
+
+#Boton_ver_Galeria{
+				margin: 10px auto 5px auto;
+				width: 60px;
+				height: 80px;
+				position: relative;
+				z-index: 5;
+			color: #2E2E2E;
+				}
+
+/*---------VENTA-----*/
+.divampliarinfoGrande{
+						color: #2E2E2E;
+						height: 20px;
+						text-decoration: none;
+						background-color: #E6E6E6;
+						opacity: 0.8;
+						}
+
+.ampliarinfoGrande{
+					padding: 5px;
+					margin: 0px auto 0px auto;
+					position: relative;
+					top: -65px;
+					z-index: 6;
+					text-align: center;
+					color: #2E2E2E;
+					}
+
+
+
+/*-----------ALQUILER---*/
+
+.divampliarinfoGrande_alq{
+							color: #2E2E2E;
+							height: 20px;
+							text-decoration: none;
+							background-color: #E6E6E6;
+							opacity: 0.8;
+							position: relative;
+							top: -5px;
+							}
+
+.ampliarinfoGrande_alq{
+						padding: 5px;
+						margin: 0px auto 0px auto;
+						position: relative;
+						top: -25px;
+						z-index: 6;
+						text-align: center;
+						color: #2E2E2E;
+						}
+
+
+
+
+
+
+
+
+#Precio_Piso_galeria{
+			height: 25px;
+			font-size: 24px;
+			font-weight: bold;
+			color: #2E2E2E;
+			text-align: right;
+			margin-right: 5px;
+			position: relative;
+			top: 0px;
+			
+			}
+
+#Rerefencia_Galeria{
+					width: 30px;
+					height: 24px;
+					color: #2E2E2E;
+					padding-left: 5px;
+					font-size: 14px;
+					font-weight: normal;
+					margin-left: 0px;
+					margin-right: auto;
+					float: left;
+					line-height: 24px;
+					}	
+
+
+
+.tex_Galeria_mini_venta{
+					width: 50px;
+					height: 18px;
+					color:#848484;
+					text-decoration: none;
+					margin: 0px auto 0px auto;
+
+		
+					}
+
+
+
+.texGaleria{
+			width: 50px;
+			height: 18px;
+			color:#848484;
+			text-decoration: none;
+			margin: 0px auto 0px auto;
+		
+			}
+
+#filtro1{
+			float: left;
+		}
+/*-------------------------*/
+/*  INDEX  */
+
+#titulo_utlimos_pisos_h3{
+						width:100%;
+						height: 150px;
+						text-align: center;
+						margin: 20px auto 30px auto;
+						color: #848484;
+						font-family:HelveticaLTStd-Light,arial;
+						line-height: 60px;	
+
+			padding-top: 50px;
+	background: #F2F2F2 url('../img/bg3.png') repeat center top;
+		
+						}
+
+
+
+
+.ultimospublicados{
+					width: 960px;
+					height: auto;
+					margin-bottom: 50px;
+				/*	background-color: orange;*/
+					}
+
+
+.ultimospublicados_tabla{
+						width: auto;
+						height: auto;
+						margin: 0px auto 50px auto;
+					
+						}
+
+
+.galeriapequemini{
+			margin-top: -5px;
+			width: 600px;
+			background-color: red;
+		/*	height: 30px;*/
+		
+			 }
+
+#imgFloatmini{
+		margin: 20px auto 0px auto;
+		width: 40px;
+		height: 38px;
+		position: relative;
+		z-index: 5;
+	
+
+		}
+
+.divResultmini{
+			width: 200px;
+			height: auto;
+			color: #F2F2F2;
+			float: left;
+			margin: 5px 5px 50px 15px;
+			
+		
+			}
+
+#imgpisomini{
+			width:200px;
+			height:230px;
+			border-top-left-radius: 10px;
+			border-top-right-radius: 10px;
+			background-repeat: no-repeat;
+			background-size: cover;
+			box-shadow: 1px 0px 1px #BDBDBD;
+ 		 }		  
+
+.bajoFotomini{
+			height:145px;
+			border-bottom-left-radius: 10px;
+			border-bottom-right-radius:10px;
+		background-color: #FAFAFA;
+			box-shadow: 0px 1px 1px #BDBDBD;
+	
+		}
+
+.div_titulo_galeriamini{
+			width: 200px;
+			height: 30px;
+			background-color:  #ccff33;
+			color:#333333;
+			}
+
+#tituloPisomini{
+			width: 135px;
+			height: 30px;
+			
+			float: left;
+			line-height: 30px;
+			margin-left: 5px;
+			}
+
+
+#metrosmini{
+		width: 55px;
+		height: 30px;
+		
+		float: left;
+		margin-right: 5px;
+		line-height: 30px;	
+		text-align: right;
+		}	
+
+
+#habitacion{
+			width: 100%;
+			height: 20px;
+			color: white;
+			text-align: left;
+			
+				}
+
+
+
+
+.ampliarinfo{
+			
+			padding: 5px;
+			margin: 0px auto 0px auto;
+			position: relative;
+			top: -52px;
+			z-index: 6;
+			text-align: center;
+		
+			}
+
+.ampliarinfo:hover{ color:white;}
+
+
+
+#PrecioPisomini{
+	width: 60px;
+	height: 20px;
+			height: 18px;
+			font-size: 15px;
+		margin-right: 0px;
+		margin-left: auto;
+			
+			text-align: right;
+			float: left;
+		color:#333333;
+			position: relative;
+			left: 100px;
+
+			}
+
+#Rerefenciamini{
+			width: 30px;
+			height: 24px;
+			color: #6E6E6E;
+			padding-left: 5px;
+			font-size: 14px;
+			font-weight: normal;
+			margin-left: 0px;
+			margin-right: auto;
+		float: left;
+			line-height: 24px;
+			}	
+
+.texgaleriamini{
+			width: 50px;
+			height: 18px;
+			color:#848484;
+			text-decoration: none;
+			margin: 0px auto 0px auto;
+
+			}
+
+
+/*-----------------------FICHA DE PISOS y  ULTIMOS PUBLICADOS PAG. GALERIA---*/
+
+
+
+.generalGaleria{		
+				width:960px;
+				height:auto;
+				color:#848484;
+			font-family: arial,verdana;	
+				margin: 100px auto 0px auto;	
+		
+				}
+
+.boxGaleria{ 
+			width:960px;
+			height:580px;
+			margin: 0px auto 0px auto;	
+			font-size: 16px;
+      		}
+.filtros{
+		width: 900px;
+		height: 200px;
+		list-style-type: none;
+		background-color: silver;
+		margin: 0px auto 0px auto;
+		}
+
+
+#filtro1{
+			float: left;
+		}
+
+
+
+
+/*---------------------------------------PAGINA ACEESO INTRANET -----------------*/
+
+.generalGaleriaIntranet_acc{		
+							width:960px;
+							height:auto;
+							color:#848484;
+							font-family: arial,verdana;	
+							margin: 10px auto 0px auto;	
+							text-align: center;
+							
+							}
+
+
+.formularioseccion{
+					width: 360px;
+					height: 360px;
+					border-radius: 180px;
+					background-image: url('../img/fondo_acc_intra.png');
+					/*background-color:#0f7aa2;*/
+					margin: 0px auto 20px auto;
+					text-align: center;
+					color: #333333;
+		
+					}
+
+.divinicioseccion{
+					width: 260px;
+					height: 260px;
+						
+					margin: 0px auto 0px auto;
+					position: relative;
+					top:70px;
+					text-align: center;
+				}
+
+
+.boxIntranetIntranet{ 
+					width:960px;
+					height:auto;
+					margin: 0px auto 0px auto;	
+					font-size: 16px; 
+			   		}
+
+.gestionIntranet{
+				width: 900px;
+				height: 200px;
+				list-style-type: none;
+				
+				background-color: silver;
+				margin: 0px auto 0px auto;
+				}
+
+
+#tablaGestionIntranet{
+					width: 960px;
+					height: auto;
+					margin: 0px auto 20px auto;
+				border: 2px solid silver;	
+				text-align: center;
+					}
+
+/*--------------------------*/
+/*-- div alerta de error php -*/
+.alertaMens_Acc{						
+			width: 330px;
+			height:auto;
+			padding: 5px;
+			font-family: Tahoma,verdana,arial;
+			background-color: #ff6666;
+			border:1px solid #F78181;
+			position: relative;
+			top: 0px;
+			left: 0px;
+			color:white;
+		border-radius: 3px;
+		list-style: none;
+		margin: 0px auto 0px auto;
+			}
+
+
+/*  filas del cartel de error  separada del error anterior */
+#alertalist_Acc{
+				list-style: none;
+				}
+
+
+
+
+
+
+/*---------------------------------------PAGINA INTRANET -----------------*/
+
+.generalGaleriaIntranet{		
+				width:960px;
+				height:auto;
+				color:#848484;
+			font-family: arial,verdana;	
+				margin: 0px auto 0px auto;	
+		
+				}
+
+.boxIntranetIntranet{ 
+			width:960px;
+			height:auto;
+			margin: 0px auto 0px auto;	
+			font-size: 16px;
+						     
+	
+      		}
+.gestionIntranet{
+				width: 900px;
+				height: 200px;
+				list-style-type: none;
+				
+				background-color: silver;
+				margin: 0px auto 0px auto;
+				}
+
+
+#tablaGestionIntranet{
+					width: 960px;
+					height: auto;
+					margin: 0px auto 20px auto;
+				border: 2px solid silver;	
+				text-align: center;
+					}
+
+/*--------------------------*/
+
+	
+#tablaGestion{
+			
+			width: 960px;
+			height: 200px;
+			}
+
+.titulos{
+		height: 70px;
+		line-height: 70px;
+		background-color: #5bc0de;
+		border: none;
+		font-family:HelveticaLTStd-Light,arial;
+		font-weight:bold;
+		color: white;
+		letter-spacing: 1px;
+		}
+
+
+
+.titulosTabla{
+						
+			height: 70px;
+			line-height: 70px;
+			
+				}
+
+#td{
+	width: 200px;
+	height: 40px;
+
+	text-align: center;
+	border: 1px solid silver;
+	}
+
+
+
+
+/*---------------------------------------PAGINA INTRANET INSERTAR DATOS -----------------*/
+
+.generalGaleria_intranet_insertar{		
+									width:960px;
+									height:auto;
+									color:#848484;
+									
+									margin:10px auto 0px auto;	
+							
+									}
+
+.boxIntranetInserta{ 
+					width:960px;
+					height:auto;
+					margin: 0px auto 0px auto;	
+					font-size: 16px;
+			 	}
+
+.divbotonyintranet{
+			
+				}
+
+
+#titulo_intranet{
+		     	width:100%;
+				height:57px;
+				font-size: 57px;
+			line-height:57px; 
+				text-shadow: 0px 2px 3px rgba(255,255,255,0.5);
+				-webkit-background-clip: text;
+				-moz-background-clip: text;
+				-ms-background-clip: text;  
+				margin-left: 10px;
+					}
+
+#img_boton{
+			float: left;
+			margin-right: 5px;
+			margin-left: 5px;
+			position: relative;
+			top: 0px;
+			}
+
+
+.envuelve_titulo_gestion{
+						margin: 0px auto 0px auto;
+						background-color: #9AFE2E;
+						text-align: center;
+						color: white;
+
+						
+						}
+
+
+#tiulo_gestionDeinmuebles{
+						margin: 0px auto 0px auto;
+						}
+
+.gestion{
+		width: 900px;
+		height: 200px;
+		list-style-type: none;
+		
+		background-color: silver;
+		margin: 0px auto 0px auto;
+		}
+
+	
+#tablaInsertar{
+			background-color: #F2F2F2;
+			width: 960px;
+			height: 100%;
+			border: 1px solid blue;
+			padding: 5px;
+
+			
+			}
+
+/*---div envuelve la tabla de resultados --*/
+.edicionInsertar{			
+				width: 960px;
+				height: auto;
+				}
+
+
+#tablaInsertar tr{
+					width: 100%;
+					border: 2px solid white;
+					
+					}
+
+
+
+#tdGaleria{
+			height: 200px;
+			
+			}
+
+#tdGaleria p{
+			
+			text-align: center;
+			
+			}
+
+#text_Galeria_modifica{
+					
+					}
+
+
+#tablaresultadosInserta{
+						width: 960px;
+						background-color:#F2F2F2;
+						margin: 0px auto 0px auto;						}
+
+#formularioInsertar{
+					width: 400px;
+					height: auto;
+					
+					float: left;
+				}
+
+
+#tablaInsertarImagenydescripcion{
+								background-color: orange;
+								width: 960px;
+								height: 100%;
+								border: 1px solid white;
+								}
+
+
+.tdResultInserta{
+				width: 400px;
+				height:auto;
+				color: #F2F2F2;
+			
+				margin: 0px auto 0px auto;
+				
+				}
+
+#imgpisoInserta{
+			width:100%;
+			height:450px;
+			margin-right: 20px;
+			background-repeat: no-repeat;
+			background-size: cover;
+			border-bottom: 20px;
+			}
+
+
+
+#mapafichaInsertar{
+				width: 400px;
+				height: 300px;
+				border: 5px solid white;
+				box-shadow: 1px 1px 2px silver;
+				margin: 30px auto 0px auto;
+				}
+
+
+#tituloPisoInsertar{
+					width: auto;
+					height: 70px;
+					
+				
+					color:#333333;
+					font-size: 16px;
+					border-top-left-radius: 10px;
+					border-top-right-radius: 10px;
+					line-height: 70px;
+					padding-left: 5px;
+					margin-top: 10px;
+					text-align: center;
+
+					
+
+					}
+
+/*---div que envuelve el titulo y los metros */
+.div_titulo_galeriaInsertar{
+					width: 350px;
+					height: 30px;
+					background-color: #E9E7E7;
+					padding: 5px;
+					}
+
+/*---titulo  piso en calle.. */
+#tituloInsertar{
+					width: 250px;
+					height: 30px;
+					background-color: gold;
+					
+					}
+
+
+#metrosInsertar{
+				width: 55px;
+				height: 30px;
+				color: white;
+				float: left;
+				margin-right: 0px;
+				line-height: 30px;	
+				text-align: right;
+			
+				}	
+
+
+#DescripcionPisoInsertar{
+						width: 475px;
+						height: 70px;
+						color: #6E6E6E;
+						font-size: 13px;
+						resize:none;
+						padding: 5px;
+						margin-bottom: 20px;
+				background-color: #E9E7E7;		
+						}
+
+
+
+.galeriapequeInsertar{
+					margin-top: -5px;
+					width: 100%;
+					height: 82px;
+				background-color: red;	
+					 }
+
+#imgFloatInsertar{
+				margin: 0px auto 5px auto;
+				width: 60px;
+				height: 80px;
+				position: relative;
+				z-index: 5;
+				}
+
+#PrecioPisoInsertar{
+					height: 25px;
+					font-size: 24px;
+					font-weight: bold;
+					color: #6E6E6E;
+					text-align: right;
+					margin-right: 5px;
+					position: relative;
+					top: -25px;
+			
+					}
+
+#RerefenciaInsertar{
+					width: 30px;
+					height: 24px;
+					color: #6E6E6E;
+					padding-left: 5px;
+					font-size: 14px;
+					font-weight: normal;
+					margin-left: 0px;
+					margin-right: auto;
+						float: left;
+						line-height: 24px;
+					}	
+
+.texgaleria{
+			width: 50px;
+			height: 18px;
+			color:#848484;
+			text-decoration: none;
+border: 2px solid gold;
+			margin: 0px auto 0px auto;
+			}
+
+
+
+/*---div envuelve las img de la galeria */		
+
+.envuelvegaleriaInserta{
+						width: auto;
+						height: 85px;
+						margin: 10px auto 0px auto;
+			
+						}
+
+
+
+/*---img pequeñas de la galeria inserta anuncio --*/		 		 	  
+#imgpisoGaleria{
+			width:91px;
+			height:70px;
+			
+			background-repeat: no-repeat;
+			background-size: cover;
+			float: left;
+			margin-right: 3px;
+			border-radius: 5px;
+			background-color: silver;
+			border: 1px solid silver;
+			
+			}
+/*-----------------------------------pagina INSERTA LOCAL COMERCIAL--------------------*/
+
+	
+#tablaInsertarLocales{
+					
+					width: 750px;
+					height: 100%;
+					margin: 0px auto 0px auto;
+					padding: 5px;
+				
+					}
+
+/*---div envuelve la tabla de resultados --*/
+.edicionInsertar{			
+				width: 960px;
+				height: auto;
+				}
+
+
+#td_texto_inserta_local{
+					width: 475px;
+					height: 300px;
+				margin-left: 20px;
+					position: relative;
+					top: -130px;
+					}
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*------------------------------pagina ficha -------------------------------------------*/
+
+
+.generalFicha{		
+				width:960px;
+				height:auto;
+				color:#848484;
+			font-family: arial,verdana;	
+				margin: 0px auto 0px auto;	
+
+	
+				}
+
+.boxFicha{ 
+			width:960px;
+			height:auto;
+			margin: 0px auto 0px auto;	
+			font-size: 16px;
+			
+			}
+
+
+/*---------------------*/
+.divbotonyintranet{
+			background-color: #F2F2F2;
+				}
+
+
+.envuelve_titulo_gestion{
+						margin: 0px auto 0px auto;
+						background-color: #9AFE2E;
+						text-align: center;
+						color: white;
+						}
+
+.divresultadosFicha{
+					padding-top: 10px;
+					width: 100%;
+					height: auto;
+					background: #F2F2F2 url('../img/bg3.png') repeat center top;
+
+					}
+			
+
+
+/*---div envuelve la tabla de resultados --VENTA Y ALQUILER*/
+.divEnvuelvepisosFicha{			
+					width: 960px;
+					height: auto;
+					margin: 0px auto 0px auto;
+					
+					}
+option{
+	padding: 10px;
+}
+
+#flecha{
+		width: 70px;
+		height: 70px;
+	position: relative;
+	left: 40px;
+	padding-left: 10px;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+		margin: 0px auto 0px 0px;
+		background-color: #ccff33;
+
+		}
+
+.tdResultFicha{
+				width: auto;
+				height:auto;
+				
+				margin: 20px auto 0px auto;
+		
+				}
+
+#imgpisoFicha{
+		/*	width:650px;
+		height:380px;*/
+		width:880px;
+			height:480px;
+	border:10px solid #e5e5e5;	
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center;
+			
+			margin: 10px auto 0px auto;
+			}
+
+
+/*---div envuelve las img de la galeria */		
+
+.envuelvegaleriaFicha{
+					
+					width: 900px;
+						height: 60px;
+						margin: 10px auto 0px auto;
+						
+					
+							}
+
+
+.envuelvegaleriaFicha2{
+						width: 89px;
+						height: 75px;
+						margin: 10px auto 0px auto;
+				
+				text-align: center;
+									}
+
+
+/*---img pequeñas de la galeria inserta anuncio --*/		 		 	  
+#imgpisoGaleriaFicha{
+					width: 70px;
+					height: 50px;
+								
+					background-repeat: no-repeat;
+					background-size: cover;
+					float: left;
+					margin-left: 3px;
+				border: 5px solid white;		
+					}
+
+/*  div con opacidad mas ancho */					
+#tituloFicha_detras{
+					width: auto;
+					height: 40px;
+					margin: 0px auto 0px auto;
+					
+					}
+
+
+
+#tituloFicha{
+			width: auto;
+			height: 40px;
+			line-height: 40px;
+			padding: 5px;	
+			font-size: 20px;
+			color: #333333;
+			text-align: center;
+	
+			margin: 0px auto 0px auto;
+			opacity: 0.8;	
+			}
+
+/*----tabla con descripcion texto y mapa de la ficha-*/
+#tabla_textoyMapa{
+					width: 100%;
+					margin-bottom: 30px;
+					background-color: #FAFAFA;
+
+					}
+
+
+#tabla_textoyMapa td{
+					border: 1px solid #E6E6E6;
+					}
+
+#tabla_textoyMapa tr{
+					 
+					}
+
+#mapaficha{
+			width: 400px;
+			height: 300px;
+		
+			box-shadow: 1px 1px 2px silver;
+			margin: 0px auto 0px auto;
+		border: 11px solid white;
+				}
+
+
+
+#metrosFicha{
+				width: 55px;
+				height: 30px;
+				color: white;
+				float: left;
+				margin-right: 0px;
+				line-height: 30px;	
+				text-align: right;
+		background-color: black;
+		padding: 5px;	
+				}	
+
+
+#DescripcionPisoFicha{
+						width: 460px;
+						height: 90px;
+						color: #6E6E6E;
+						font-size: 15px;
+						resize:none;
+						padding: 10px 10px 10px 10px;
+						margin-top: 5px;
+						margin-left:5px;
+						margin-bottom: 5px;	
+					
+						}
+
+
+
+.galeriapequeInsertar{
+					margin-top: -5px;
+					width: 100%;
+					height: 82px;
+				background-color: red;	
+					 }
+
+
+#PrecioPisoFicha{
+					height: 35px;
+					font-size: 30px;
+					
+					color: #6E6E6E;
+					text-align: center;
+						line-height:35px;	
+						padding: 10px;	
+					}
+
+#Extras_Ficha{
+					height: 35px;
+					font-size: 20px;
+					
+					color: #6E6E6E;
+					text-align: center;
+						line-height:35px;	
+						padding: 10px;	
+					}
+
+#RerefenciaFicha{
+					width:50px;
+					height: 20px;
+					color: #6E6E6E;
+					font-size: 14px;
+					margin: 0px auto 0px auto;
+					
+					}	
+
+.texgaleria{
+			width: 50px;
+			height: 18px;
+			color:#848484;
+			text-decoration: none;
+
+			margin: 0px auto 0px auto;
+			}
+
+
+
+/*-----------------------------------------termina pagina ficha--------------------------------*/
+
+
+
+/*------------------------------------------------------------------------------*/
+/*-------------------------------------intranet eliminar----------------------*/
+
+
+#tablaresultadosElimina{
+						width: 240px;
+						height: auto;
+						margin:0px auto 0px auto;
+
+						}
+
+
+.ultimospublicados{
+					width: 960px;
+					height: auto;
+					margin-bottom: 50px;
+				/*	background-color: orange;*/
+					}
+
+
+.ultimospublicados_tabla{
+						width: auto;
+						height: auto;
+						margin: 0px auto 50px auto;
+					
+						}
+
+
+.galeriapequemini{
+			margin-top: -5px;
+			width: 600px;
+			background-color: red;
+		/*	height: 30px;*/
+		
+			 }
+
+#imgFloatmini{
+		margin: 20px auto 0px auto;
+		width: 40px;
+		height: 30px;
+		position: relative;
+		z-index: 5;
+	
+
+		}
+
+
+
+
+
+#tituloPisominiElimina{
+					width: 135px;
+					height: 30px;
+					color:#333333;
+					float: left;
+					line-height: 30px;
+					margin-left: 5px;
+					}
+.divResultminiElimina{
+					width: 200px;
+					height: auto;
+					color: #F2F2F2;
+					float: left;
+					margin: 5px 5px 50px 15px;
+				border: 1px solid silver;
+				border-radius: 10px;
+					}
+
+#imgpisomini{
+			width:200px;
+			height:230px;
+			border-top-left-radius: 10px;
+			border-top-right-radius: 10px;
+			background-repeat: no-repeat;
+			background-size: cover;
+			box-shadow: 1px 0px 1px #BDBDBD;
+ 		 }		  
+
+.bajoFotominiElimina{
+					height:145px;
+					border-bottom-left-radius: 10px;
+					border-bottom-right-radius:10px;
+				background-color: red;
+					box-shadow: 0px 1px 1px #BDBDBD;
+					color:pink;
+			
+				}
+
+.div_titulo_galeriamini{
+			width: 200px;
+			height: 30px;
+			background-color:  #ccff33;
+			color:#333333;
+			}
+
+#tituloPisomini{
+			width: 135px;
+			height: 30px;
+			
+			float: left;
+			line-height: 30px;
+			margin-left: 5px;
+			}
+
+
+#metrosmini{
+		width: 55px;
+		height: 30px;
+		
+		float: left;
+		margin-right: 5px;
+		line-height: 30px;	
+		text-align: right;
+		}	
+
+
+#habitacion{
+			width: 100%;
+			height: 20px;
+			color: white;
+			text-align: left;
+			
+				}
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------------------------------------------------*/
+
+
+
+
+
+/*---------------------------------------PAGINA INTRANET MODIFICA  PISOS DATOS -----------------*/
+
+.general_Modificar_venta_pisos{		
+				width:960px;
+				height:auto;
+				color:#848484;
+				font-family: arial,verdana;	
+				margin: 10px auto 0px auto;	
+				}
+
+.boxIntranetModificar{ 
+					width:960px;
+					height:auto;
+					margin: 0px auto 0px auto;	
+					font-size: 16px;
+				 	}
+
+
+
+/*---------------------*/
+
+.eliminado{
+			background-color:#FE2E64;
+			height: 50px;
+			text-align: center;
+			line-height: 50px;
+			font-weight: 20px;
+			color: white;
+			}
+
+.tablebotonyintranetModificar{
+								height: 70px;
+								margin-bottom: 50px;
+								}
+
+
+.tablebotonyintranetModificar tr{
+								height: 80px;
+								}
+.buttons_volver{
+				width: 70px;
+				height: 70px;
+				margin: 0px auto 0px auto;
+
+				}
+
+
+#titulo_intranetModificar{
+						font-size: 57px;
+						color:#BDBDBD;
+						text-shadow: 0px 2px 3px rgba(255,255,255,0.5);
+						-webkit-background-clip: text;
+						-moz-background-clip: text;
+						-ms-background-clip: text;  
+						font-family:HelveticaLTStd-Light,arial;
+						position: relative;
+						top: 10px;						}
+
+#img_botonModificar{
+					
+					margin-right: 5px;
+					margin-left: 5px;
+					position: relative;
+					top: 5px;
+
+					}
+#boton_circle_guardar{
+					margin: 0px auto 0px auto;
+					text-align: center;
+					}
+
+.edicionModificar{			
+				width: 960px;
+				height: auto;
+				}
+
+
+/*--------------*/
+.envuelve_titulo_gestionModificar{
+								margin: 0px auto 0px auto;
+								background-color: #00BFFF;
+								text-align: center;
+								color: white;
+								}
+
+
+
+/*-------ELIMINA---*/
+.envuelve_titulo_gestion_elimina{
+								margin: 0px auto 0px auto;
+								background-color: #FE2E64;
+								text-align: center;
+								color: white;
+								}
+
+
+
+
+#tiulo_gestionDeinmueblesModificar{
+									font-family: CaviarDreams,arial;
+									margin: 0px auto 0px auto;
+									}
+
+
+
+
+.divbuscarModificar{
+					height: 150px;
+					margin: 0px auto 20px auto;
+					text-align: center;
+					background-color:#F2F2F2;
+				}
+
+#input_buscar{
+			text-align: center;	
+			}
+
+					}
+#botonbuscar_mod{
+				width: 230px;
+			}
+
+
+/*----donde va el numero de ref del piso  */
+#input_referencia{
+					border: none;
+					width: 40px;
+					text-align: center;
+				
+					}
+
+#titulo_inmu_ref{
+				font-size: 25px;
+				margin-top: 0px;
+				margin-right: 10px;
+				
+				}
+
+
+
+	
+#tablaModificar{
+				background-color: #F2F2F2;
+				width: 960px;
+				height: 100%;
+				
+				}
+/*------invisible GARAJES---*/
+
+#invisible_garaje{
+			width: 70px;
+			height: 30px;
+			background-color: #F2F2F2;
+			position: relative;
+			z-index: 11;
+			top:-50px;
+			left:330px;
+			
+		}
+
+/*------invisible---*/
+
+#invisible{
+			width: 60px;
+			height: 30px;
+			background-color: #F2F2F2;
+			position: relative;
+			z-index: 11;
+			top:-50px;
+			left:340px;
+			
+		}
+
+#invisible_1{
+			width: 60px;
+			height: 30px;
+			background-color: #F2F2F2;
+			
+			position: relative;
+			z-index: 20;
+			top:30px;
+			left:10px;
+			
+		}
+
+
+#invisible_3{
+			width: 90px;
+			height: 30px;
+			background-color: #F2F2F2;
+	
+			position: relative;
+			z-index: 20;
+			top:30px;
+			left:180px;
+			
+		}
+
+
+
+.button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:45px;
+	line-height:50px;
+	width:272px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+	position: relative;
+	left: 30px;
+	top: 5px;
+}
+.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.button:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.button_mini {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:45px;
+	line-height:50px;
+	width:272px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+	position: relative;
+	left: 0px;
+	top: 5px;
+}
+.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.button:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
+
+#tablaModificar td{
+					padding-left: 10px;
+					}
+#tablaModificar tr{
+					padding-left: 10px;
+					}
+
+#tdGaleria_modificar{
+					text-align: center;
+					}
+
+
+#tablaInsertarImagenydescripcion{
+								background-color: orange;
+								width: 960px;
+								height: 100%;
+								border: 1px solid white;
+								}
+
+.descripcion_text_area{
+						resize:none;
+						text-align: left;
+					}
+
+
+#mapafichaInsertar{
+				width: 400px;
+				height: 300px;
+				border: 5px solid white;
+				box-shadow: 1px 1px 2px silver;
+				margin: 20px auto 0px auto;
+				}
+
+.titulo_importante{
+					height: 50px;
+					background-color:#F2F2F2;
+					font-size: 17px;
+					color: #00BFFF;
+					border: 1px solid #00BFFF;
+					text-align: center;
+					padding: 10px;					
+					}
+
+.titulo_Modif_img_indiv{
+					height: 60px;
+					
+					font-size: 25px;
+					color: #A4A4A4;
+					text-align: center;
+					font-weight: 200px;
+					line-height: 60px;
+
+					}
+
+
+
+/*---img de la ficha  de la galeria modificar anuncio --*/
+#imgpisoModifica{
+				width:270px;
+				height:190px;
+				
+				background-repeat: no-repeat;
+				background-size: cover;
+				border-radius: 5px;
+				border: 1px solid #BDBDBD;
+				margin: 40px auto 0px auto;
+				}
+
+
+
+/*------ galeria 10 fotos pequeñas----*/
+#tabla_Galeria_modificar_1{
+						border-top: 1px solid silver;
+						background-color: #F2F2F2;
+						width: 960px;
+						margin:0px auto 10px auto;
+						}
+
+#tabla_Galeria_modificar_1 td{
+							width: auto;
+							b
+							
+							}
+#tabla_Galeria_modificar_1 tr{
+							text-align: center;
+							
+							}
+
+
+/*------ galeria 10 fotos pequeñas----*/
+#tabla_Galeria_modificar_2{
+	
+						background-color: #F2F2F2;
+						width: 960px;
+						margin:0px auto 0px auto;
+						text-align: center;
+						}
+
+#tabla_Galeria_modificar_2 td{
+							width: auto;
+							border: 1px solid #E6E6E6;
+							text-align: center;
+							}
+#tabla_Galeria_modificar_2 tr{
+							text-align: center;
+							border-top: 1px solid silver;
+							text-align: center;
+							}
+
+/*---img pequeñas de la galeria inserta anuncio --*/		 		 	  
+
+#imgpisoGaleriaModificar{
+							width:230px;
+							height:120px;
+							background-repeat: no-repeat;
+							background-size: cover;
+							margin: 0px auto 10px 0px;
+							border-radius: 5px;
+						}
+
+				/*---------------------FIN PAGINA MODIFICA INTRANET --------------------*/
+
+
+
+.generalGaleria{		
+				width:960px;
+				height:auto;
+				color:#848484;
+			font-family: arial,verdana;	
+				margin: 100px auto 0px auto;	
+		
+				}
+
+.boxGaleria{ 
+			width:960px;
+			height:580px;
+			margin: 0px auto 0px auto;	
+			font-size: 16px;
+      		}
+
+.filtros{
+		width: 900px;
+		height: 200px;
+		list-style-type: none;
+		background-color: silver;
+		margin: 0px auto 0px auto;
+		}
+
+
+#filtro1{
+		float: left;
+		}
+
+
+.ultimospublicados{
+					width: 960px;
+					height: auto;
+					margin-bottom: 50px;
+				}
+
+
+
+/*-------------------------------------------------PAGINA DE CONTACTO---------------------*/
+/*----------------------------------------------------------------------------------------- */
+
+
+
+
+.generalContacto{
+				width:960px;
+				height:auto;
+				
+				position:relative;
+				top:0px;
+				left:0px;
+				z-index:2;	
+				font-size:13px;								     /*caja de la pagina servicos que incluye informacion de la misma pagina*/
+				color:#333333;
+				font-family: arial ,verdana,arial;	
+				margin: 0px auto 0px auto;	
+			}
+
+#telefono{
+			font-size: 22px;
+
+			}
+.div_texto_contacto_direcc{ 
+							width:auto;
+							height:190px;
+							background-color: #A4A4A4;
+							border-top:10px solid #E6E6E6;	
+							border-bottom:10px solid #E6E6E6;	
+							margin-top: 20px;						
+				     	 }
+
+.div_texto_contacto_direcc2{ 
+							width:960px;
+							height:180px;
+							color: white;
+							margin: 0px auto 0px auto;								
+				     	 }
+
+
+.formulario{
+		     width:940px;
+		     height:auto;
+		     background-image: url('../img/fachada.png');
+			background-position: right;
+			background-repeat: no-repeat;
+		     text-align:left;
+			 font-size: 15px;
+			 color: #848484;
+		padding-left: 10px;
+	
+	    	}
+
+#div_texto_contacto_direcc{
+						  margin-top:20px;
+						  padding:0px 0px 5px 10px;			
+						  font-size: 16px;
+						  color: #848484;
+						  font-family: arial ,verdana,arial; 
+						 }
+
+
+#nombre{
+		width: 350px;
+		height: 20px;
+		
+		font-size: 16px;
+		border: 1px solid silver;
+		}
+
+
+#mail{
+	 width: 350px;
+	 height: 20px;
+	
+	 border: 1px solid silver;
+	}
+
+#comentarios{
+			width:350px;
+			height: 70px;
+			padding: 8px;
+			resize:none;
+		
+			font-size: 16px;
+			border: 1px solid silver;
+			}
+
+
+
+#botonenviar{
+				width: 366px;
+				height: 30px;
+				background-color: #A4A4A4;
+				margin: 0px auto 7px auto;
+				font-size: 16px;
+				border-radius: 3px;			
+				-ms-transition:width 0.3s; 
+				-moz-transition:width 0.3s; 
+				-webkit-transition:width 0.3s;
+				-o-transition:width 0.3s;
+				margin-top:15px;
+				margin-left:0px;
+				color: white;
+            }
+
+
+#botonenviar:hover{
+		   			width:355px; 
+				   }
+	    
+#botonresetear{
+				border-radius: 3px;
+				width: 366px;
+				height: 30px;
+				background-color: #A4A4A4;
+				margin: 0px auto auto auto;
+				font-size: 16px;
+
+				-ms-transition:width 0.3s; 
+				-moz-transition:width 0.3s; 
+				-webkit-transition:width 0.3s;
+				-o-transition:width 0.3s; 
+
+				margin-top:2px;
+				margin-left:0px;
+				color: white;
+               }
+  
+
+#botonresetear:hover{
+		    		 width:355px; 
+		   			 }
+ 
+
+.mapacontacto{
+				width: 940px;
+				height: auto;
+				border: 10px solid #D8D8D8;
+				margin: 0px auto 10px auto;
+				}
+
+
+
+
+.barraRedesSociales{
+					width: 940px;
+					height: 75px;
+					margin: 10px auto 0px auto;
+
+					}
+			    
+
+#botontwitter{					/*icono de tw*/
+			  width: 60px;
+		      height: 55px;
+		      position:relative;
+		      left:680px;
+		     
+	  	      float:left;
+		      margin: 0px 20px 0px 25px;
+			 background-repeat: no-repeat;
+			 background-position: top;
+ 	   		 }
+
+
+#botonFace{							/*icono de linked  y facebook */
+			 width: 60px;
+		     height:64px;
+			position:relative;
+			left: 680px;
+			float:left;	
+			background-size: cover;
+			background-repeat: no-repeat;
+
+      		}
+
+ 
+#Minuscula{
+			width: 60px;
+			height: 16px;
+				text-align: center;
+			font-size: 15px;
+			letter-spacing:0px;
+			font-weight:normal;
+			position: relative;
+			
+
+			}
+
+
+
+#MensOk{
+		width: 355px;
+		height: auto;
+		padding: 5px;
+		background-color: #A5DF00;
+		border: 1px solid white;
+		margin-top: 5px;
+		color: white;
+		position: relative;
+			top: -30px;
+			left: 10px;
+	border-radius: 3px;
+	}
+
+/*-- div alerta de error php -*/
+.alertaMens{						
+			width: 355px;
+			height:auto;
+			padding: 5px;
+			font-family: Tahoma,verdana,arial;
+			background-color: #ff6666;
+			border:1px solid #F78181;
+			position: relative;
+			top: -25px;
+			left: 10px;
+			color:white;
+border-radius: 3px;
+			}
+
+
+/*  filas del cartel de error  separada del error anterior */
+#alertalist{
+				list-style: none;
+				}
+
+
+#Coment{
+		position: relative;
+		top:100px;
+		
